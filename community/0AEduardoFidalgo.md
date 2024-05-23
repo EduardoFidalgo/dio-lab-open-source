@@ -12,7 +12,7 @@ Estou constantemente em busca de novos desafios e oportunidades para crescer com
 
 
 # Principais Linguagens
-[![My Skills](https://skillicons.dev/icons?i=java,php,javascript,go,python&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,php,javascript,go,python&theme=dark)
 
 # Contatos
 - <a href="https://wa.me/5513974267888?text=FullStack+Software+Developer+-+My+website%3A+https%3A%2F%2Ffidalgo.vercel.app%2F">Whatsapp</a>
